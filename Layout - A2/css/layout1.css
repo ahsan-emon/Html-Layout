@@ -1,0 +1,57 @@
+header {
+  background-color: aquamarine;
+  height: 100px;
+  text-align: center;
+}
+.home {
+  float: left;
+  margin: 20px;
+  text-decoration: none;
+}
+.home:hover {
+  color: rgba(230, 18, 18, 0.801);
+}
+nav {
+  background-color: bisque;
+  height: 400px;
+  text-align: center;
+}
+.middle {
+  overflow: hidden;
+}
+.left {
+  float: left;
+  height: 300px;
+  background-color: rgb(66, 66, 184);
+  width: 50%;
+}
+.left-top {
+  height: 50%;
+  background-color: aquamarine;
+  text-align: center;
+}
+.left-top h1 {
+  margin: 0;
+}
+.left-down h1 {
+  margin: 0;
+}
+.left-down {
+  height: 50%;
+  background-color: blueviolet;
+  text-align: center;
+}
+.right {
+  float: right;
+  height: 300px;
+  background-color: brown;
+  width: 50%;
+  color: white;
+  text-align: center;
+}
+footer {
+  background-color: darkblue;
+  height: 100px;
+  color: white;
+  text-align: center;
+}

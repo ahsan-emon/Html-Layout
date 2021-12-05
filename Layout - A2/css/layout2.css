@@ -1,0 +1,134 @@
+header {
+  height: 200px;
+  background-color: slategrey;
+  overflow: hidden;
+}
+.header-part {
+  height: 50%;
+  background-color: steelblue;
+  overflow: hidden;
+}
+.header-logo-left {
+  width: 30%;
+  height: 100%;
+  background-color: teal;
+  float: left;
+}
+.header-logo-right {
+  width: 70%;
+  height: 100%;
+  background-color: tomato;
+  float: right;
+  text-align: center;
+}
+.header-logo-left a {
+  text-decoration: none;
+  text-align: center;
+}
+.header-logo-left a:hover {
+  color: crimson;
+}
+.header-bar {
+  height: 50%;
+  background-color: turquoise;
+  text-align: center;
+}
+.header-bar h1 {
+  margin: 0;
+}
+
+.middle {
+  overflow: hidden;
+}
+.left {
+  width: 25%;
+  height: 600px;
+  background-color: salmon;
+  float: left;
+}
+.center {
+  width: 50%;
+  height: 600px;
+  background-color: seagreen;
+  float: left;
+}
+.center-top {
+  height: 30%;
+  background-color: slategrey;
+  text-align: center;
+}
+.center-center {
+  height: 40%;
+  background-color: violet;
+}
+.center-left {
+  width: 50%;
+  background-color: teal;
+  float: left;
+  height: 100%;
+}
+.center-right {
+  width: 50%;
+  background-color: turquoise;
+  float: right;
+  height: 100%;
+}
+.center-bottom {
+  height: 30%;
+  background-color: brown;
+  text-align: center;
+}
+.center-bottom h1 {
+  margin: 0;
+}
+.center-top h1 {
+  margin: 0;
+}
+.center-center {
+  overflow: hidden;
+}
+.right {
+  width: 25%;
+  height: 600px;
+  background-color: slateblue;
+  float: left;
+}
+footer {
+  height: 100px;
+  background-color: rgba(0, 0, 128, 0.781);
+  text-align: center;
+  color: white;
+}
+/* .header-part {
+  overflow: hidden;
+}
+.header-logo-left a {
+  text-decoration: none;
+  color: white;
+}
+.header-logo-left a:hover {
+  color: rgba(19, 170, 170, 0.897);
+}
+.header-logo-left {
+  float: left;
+  width: 30%;
+  background-color: rgba(211, 95, 12, 0.801);
+  text-align: center;
+}
+.header-logo-right {
+  float: right;
+  width: 70%;
+  background-color: seagreen;
+  text-align: center;
+  color: white;
+}
+.header-bar {
+  height: 160px;
+  background-color: #9c59b6c2;
+  text-align: center;
+  color: white;
+}
+.header-bar h1 {
+  margin: 0;
+  padding: 0;
+} */
