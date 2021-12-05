@@ -2,12 +2,13 @@ header {
   background-color: teal;
   height: 100px;
   text-align: center;
+  color: #c6dde2;
 }
 .menu {
   background-color: rgb(44, 119, 180);
   height: 350px;
   text-align: center;
-  color: white;
+  color: #1abc9c;
 }
 .menu a {
   text-decoration: none;
