@@ -20,23 +20,24 @@ header a:hover {
 }
 .middle-part {
   overflow: hidden;
+  height: 900px;
 }
 .middle-left {
-  height: 600px;
+  height: 100%;
   background-color: #a29bfe;
   width: 29%;
   float: left;
   text-align: center;
 }
 .middle-right {
-  height: 600px;
+  height: 100%;
   background-color: rgb(29, 131, 199);
   width: 70%;
   float: right;
   text-align: center;
 }
 .middle-right-top {
-  height: 40%;
+  height: 45%;
 }
 .middle-right-bottom {
   height: 40%;

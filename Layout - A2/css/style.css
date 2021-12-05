@@ -3,6 +3,7 @@ header {
   height: 100px;
   text-align: center;
   color: #c6dde2;
+  font-size: 30px;
 }
 .menu {
   background-color: rgb(44, 119, 180);
@@ -13,10 +14,15 @@ header {
 .menu a {
   text-decoration: none;
 }
+.menu h1 {
+  font-size: 50px;
+}
 .menu h3 {
   text-align: left;
   margin: 25px 0 0 50px;
   color: #ecf0f1;
+  display: inline-block;
+  font-size: 30px;
 }
 h3:hover {
   color: rgb(119, 3, 67);
@@ -53,13 +59,13 @@ h3:hover {
 .item2 {
   background-color: cyan;
   float: left;
-  width: 33.3%;
+  width: 33.4%;
   height: 200px;
   text-align: center;
 }
 .item3 {
   background-color: coral;
-  float: left;
+  float: right;
   width: 33.3%;
   height: 200px;
   text-align: center;
@@ -86,4 +92,5 @@ footer {
   height: 100px;
   color: white;
   text-align: center;
+  font-size: 25px;
 }

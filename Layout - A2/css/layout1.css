@@ -1,5 +1,5 @@
 header {
-  background-color: aquamarine;
+  background-color: #1abc9c;
   height: 100px;
   text-align: center;
 }
@@ -7,14 +7,16 @@ header {
   float: left;
   margin: 20px;
   text-decoration: none;
+  font-size: 35px;
 }
 .home:hover {
   color: rgba(230, 18, 18, 0.801);
 }
 nav {
-  background-color: bisque;
-  height: 400px;
+  background-color: #3498db;
+  height: 600px;
   text-align: center;
+  font-size: 30px;
 }
 .middle {
   overflow: hidden;

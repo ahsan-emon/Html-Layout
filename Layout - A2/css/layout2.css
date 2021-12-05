@@ -42,13 +42,13 @@ header {
 }
 .left {
   width: 25%;
-  height: 600px;
+  height: 800px;
   background-color: salmon;
   float: left;
 }
 .center {
   width: 50%;
-  height: 600px;
+  height: 800px;
   background-color: seagreen;
   float: left;
 }
@@ -89,7 +89,7 @@ header {
 }
 .right {
   width: 25%;
-  height: 600px;
+  height: 800px;
   background-color: slateblue;
   float: left;
 }
