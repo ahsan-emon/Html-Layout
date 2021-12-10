@@ -26,6 +26,9 @@ header {
 }
 h3:hover {
   color: rgb(119, 3, 67);
+  background-color: #3498db;
+  padding: 5px 10px;
+  border-radius: 5px;
 }
 .left {
   background-color: blueviolet;
@@ -86,6 +89,19 @@ h3:hover {
   height: 200px;
   float: left;
   text-align: center;
+}
+.contact {
+  background-color: #8e44ad;
+}
+.contact-list {
+  width: 50%;
+  margin: auto;
+}
+.fab {
+  font-size: 50px;
+  color: white;
+  padding: 10px 0;
+  width: 18%;
 }
 footer {
   background-color: darkblue;
