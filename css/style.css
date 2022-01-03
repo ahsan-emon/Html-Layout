@@ -41,10 +41,15 @@ h3:hover {
 .right {
   background-color: brown;
   height: 250px;
-  width: 50%;
+  width: 49.5%;
   color: white;
   float: left;
   text-align: center;
+}
+#right-border {
+  border-left: 9px solid;
+  border-image: linear-gradient(#3742fa, #7ed6df);
+  border-image-slice: 1;
 }
 .middle {
   overflow: hidden;
